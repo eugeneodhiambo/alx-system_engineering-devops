@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "New additions"
+git commit -m "All others"
 git push
