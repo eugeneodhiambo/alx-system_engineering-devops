@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Bash scripting"
+git commit -m "list folders and hidden files sepearating them with commas"
 git push
